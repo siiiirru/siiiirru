@@ -27,7 +27,6 @@ I am currently studying at **Pukyong National University**, with a strong intere
 - 📝 Microblog for Club Members - "Miniwapp"  [[LINK]](https://github.com/pknu-wap/miniwapp)
 - 🤖 AI Dream Interpretation Website  [[LINK]](https://github.com/siiiirru/dreamrecord) 
 - 📚 Algorithm Problem Solving  [[LINK]](https://github.com/siiiirru/Codetree)
-- 📸 Secret Image Repository  [[LINK]](https://github.com/siiiirru/screat_img)
 
 ## 🏆 Awards
 - 🥉 **Bronze Award** - Capstone Design Competition  (AI Fall Detection System)
