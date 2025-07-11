@@ -34,7 +34,7 @@ I am currently studying at **Pukyong National University**, with a strong intere
 - 🥈 **Silver Award** - Mobady Hackathon (Donation Platform)  
 
 ## 🖥️ Tech Stack
-AWS, JAVA Springboot, Python, C, MySQL, MariaDB
+AWS, Kubernetes, JAVA Springboot, Python, C, MySQL, MariaDB, NoSQL, Redis, ArgoCD, Serverless Architecture
 
 + I have experience with Node.js, JavaScript, HTML, CSS, C++,...
 
