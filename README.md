@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 
 ## 🧙‍♂️ About Me  
-I am currently studying at **Pukyong National University**, with a strong interest in **Cloud Computing, Infrastructure, CI/CD, and Kubernetes**.  
+I am an aspiring engineer who graduated from Pukyong National University with a degree in Computer Engineering, with a strong interest in Cloud Computing, Infrastructure, CI/CD, and Kubernetes. 
 
 ## 🛠️ Projects & Activities  
+- 🚗 Personalized Restaurant Recommendation Service for Long-Distance Travel Schedules - "Map.zip" [[LINK-INFRA]](https://github.com/CLD3rd-Team4/Infra) [[LINK-APP]](https://github.com/CLD3rd-Team4/App)
+- 🍇 Performance Ticket Reservation Service - "Save My Podo" [[LINK]](https://github.com/CLD-3rd/team2-infra) 
 - 🏥 AI-based Fall Detection System  [[LINK]](https://github.com/siiiirru/fallprotector)
 - 📝 Microblog for Club Members - "Miniwapp"  [[LINK]](https://github.com/pknu-wap/miniwapp)
 - 🤖 AI Dream Interpretation Website  [[LINK]](https://github.com/siiiirru/dreamrecord) 
@@ -34,12 +36,12 @@ I am currently studying at **Pukyong National University**, with a strong intere
 - 🥈 **Silver Award** - Mobady Hackathon (Donation Platform)  
 
 ## 🖥️ Tech Stack
-AWS, Kubernetes, JAVA Springboot, Python, C, MySQL, MariaDB, NoSQL, Redis, ArgoCD, Serverless Architecture
+AWS, Kubernetes, JAVA Springboot, Python, C, MySQL, MariaDB, NoSQL, Redis, ArgoCD, Serverless Architecture, Micro Service Architecture
 
 + I have experience with Node.js, JavaScript, HTML, CSS, C++,...
 
 ## 📬 Contact  
-- ✉️ Email: eqeee@naver.com
+- ✉️ Email: siyun.park23@gmail.com
 - 📖 Learning Blog: [siyun.log](https://velog.io/@siiiirru)
 
 
