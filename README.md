@@ -36,19 +36,41 @@ I am an aspiring engineer who graduated from Pukyong National University with a 
 - 🥈 **Silver Award** - Mobady Hackathon (Donation Platform)  
 
 ## 🖥️ Tech Stack
-| Category               | Tools & Technologies                                                                 |
-|-------------------------|--------------------------------------------------------------------------------------|
-| ☁️ Cloud Services       | Amazon Web Services                                                                 |
-| 📦 Containers           | Kubernetes, Docker, Docker Compose, Istio                                           |
-| 💻 Operating System     | Linux                                                                                |
-| ⚙️ IaC                  | Terraform                                                                            |
-| 🚀 CI/CD                | GitHub Actions, ArgoCD                                                               |
-| 📊 Monitoring & Logging | Prometheus, Grafana, K6, FluentBit, Logstash, ElasticSearch, Kibana, Jaeger          |
-| 🔧 Backend              | Java Spring Boot, Node.js                                                            |
-| 🗄️ Databases            | MySQL, MariaDB, Redis, DynamoDB                                                      |
-| 🏗️ Architecture         | Monolithic, Serverless, Microservices                                                |
-| 🤝 Collaboration Tools  | GitHub, Notion, Slack, Jira, Discord, Gather                                         |
-| 🤖 AI / ML              | Mediapipe, GPT, YOLO, MusicGen, XGBoost      
+```bash
+# ==========================================================================
+#                __-----_.                        ______
+#               /  \      \           o  O  O   _(      )__
+#              /    |  |   \_---_   o._.      _(           )_
+#             |     |            \   | |""""(_   Let's see... )
+#             |     |             |@ | |    (_               _)
+#              \___/   ___       /   | |      (__          _)
+#                \____(____\___/     | |         (________)
+#                |__|                | |          |
+#                /   \-_             | |         |'
+#              /      \_ "__ _       !_!--v---v--"
+#              /         "|  |>)      |""""""""|
+#             |          _|  | ._--""||        |
+#             _\_____________|_|_____||________|_                                  
+# ==========================================================================
+#                DEV TERMINAL - TECK STACK MODE
+# ==========================================================================
+
+$ echo "Loading Tech Stack..."  
+
+Cloud Services       : AWS
+Containers           : Kubernetes | Docker | Docker Compose | Istio
+Operating System     : Linux
+IaC                  : Terraform
+CI/CD                : GitHub Actions | ArgoCD
+Monitoring & Logging : Prometheus | Grafana | K6 | FluentBit | ELK Stack | Jaeger
+Backend              : Java Spring Boot | Node.js
+Databases            : MySQL | MariaDB | Redis | DynamoDB
+Architecture         : Monolithic | Serverless | Microservices
+Collaboration Tools  : GitHub | Notion | Slack | Jira | Discord | Gather
+AI / ML              : Mediapipe | GPT | YOLO | MusicGen | XGBoost
+
+$ echo "Tech Stack Loaded!"
+```
 
 ## 📬 Contact  
 - ✉️ Email: siyun.park23@gmail.com
